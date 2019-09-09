@@ -26,7 +26,7 @@
     <!-- Audio Library Tab for MMS attachments -->
     <string name="mediapicker_galleryChooserDescription_cm">从此设备中选择图像或视频</string>
     <string name="mediapicker_audioListChooserDescription">从此设备中选择音频文件</string>
-    <string name="mediapicker_gallery_image_item_attachment_too_large">无法附加视频。 超出最大邮件大小。</string>
+    <string name="mediapicker_gallery_image_item_attachment_too_large">超出最大邮件大小，无法附加视频。</string>
     <string name="mediapicker_audio_list_title">选择音频</string>
     <string name="mediapicker_audio_list_item_selected_content_description">已选择的音频</string>
     <string name="mediapicker_audio_list_item_unselected_content_description">点按即可选择</string>
